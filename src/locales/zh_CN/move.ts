@@ -2047,7 +2047,7 @@ export const move: MoveTranslationEntries = {
   },
   "acrobatics": {
     name: "杂技",
-    effect: "轻巧地攻击对手。自己没有\n携带道具时，会给予较大的\n伤害",
+    effect: "轻巧地攻击对手。\n携带的道具越少，\n给予的伤害越大",
   },
   "reflectType": {
     name: "镜面属性",
